@@ -271,7 +271,7 @@ All payments are **verified server-side** before confirming orders.
 
 **Satinder Singh Sall**
 Full-Stack Web Developer
-📧 [satindersinghsall111@gmail.com](mailto:satindersinghsall111@gmail.com)
+📧 [jsongy0818@gmail.com](mailto:satindersinghsall111@gmail.com)
 
 ---
 
